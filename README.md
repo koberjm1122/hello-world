@@ -1,3 +1,3 @@
 # hello-world
 hello world
-rebase1
+merge it
